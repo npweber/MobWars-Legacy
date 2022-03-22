@@ -1,0 +1,27 @@
+name: DivideANDConquer
+version: 0.1b
+description: A game where you get to control your armies and see them fight the other player's armies.
+
+author: nathanapes 
+
+main: me.nathanapes.divideandconquer.Main
+
+commands: 
+  startgamecycle: 
+    description: Starts the game's infinite loop.
+    usage: /startgamecycle
+    permission: startgamecycle
+    
+  stopgamecycle: 
+    description: Stops the game's cycle.
+    usage: /stopgamecycle
+    permission: stopgamecycle
+    
+permissions: 
+  startgamecycle:
+     description: Allows you to start the game's infinite loop.
+     default: op
+  
+  stopgamecycle: 
+    description: Allows you to stop the game's cycle.
+    default: op
