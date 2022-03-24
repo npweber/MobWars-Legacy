@@ -8,3 +8,11 @@ MobWars was a concept Minecraft minigame involving the control of mobs, other en
 
 ## Its Current Status
 This minigame is concept because this original idea was never implemented, due to lack experience in Bukkit (now known as Spigot) plugin development. After the files in this repository were created and worked with, I abandoned the work and decided to start developing smaller-scale Spigot plugins in order to practice developing in Java and Spigot. After having enough experience developing plugins, I rethought the concept and found that substituting players for mobs in the squads was easier to implement. With that plan, development started in 2017 in the repository [MobWars](https://github.com/npweber/MobWars) and finished later that year. [MobWars](https://github.com/npweber/MobWars) was the real success of this concept and lives on as a finished professional work today. MobWars-Legacy is kept as nostalgia.
+
+ ## **Author**
+Nathan Weber
+
+**GitHub** [@npweber](https://github.com/npweber/)
+
+***Many thanks!***
+
